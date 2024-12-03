@@ -4,7 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx']
+  pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx'],
+  optimizeFonts: true
 };
 
 module.exports = nextConfig; 
