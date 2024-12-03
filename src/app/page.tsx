@@ -1,5 +1,5 @@
 import { TextRevealCardPreview } from "@/components/acernity/text-reveal-card";
-import BlurFade from "@/components/magicui/blur-fade";
+import { BlurFade } from "@/components/magicui/blur-fade";
 import { FocusCardsDemo } from "@/components/acernity/focus-cards"
 import { AnimatedModalGift } from "@/components/acernity/animated-modal-gift";
 import { AnimatedModalHpv } from "@/components/acernity/animated-modal-hpv";
