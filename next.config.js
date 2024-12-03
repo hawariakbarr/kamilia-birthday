@@ -3,7 +3,8 @@ const nextConfig = {
   output: 'standalone',
   images: {
     unoptimized: true
-  }
+  },
+  pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx']
 };
 
 module.exports = nextConfig; 
